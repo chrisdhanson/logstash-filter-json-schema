@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    logstash-filter-json-schema (0.1.0)
+    logstash-filter-jsonschema (0.1.0)
       logstash-core-plugin-api (~> 2.0)
 
 GEM

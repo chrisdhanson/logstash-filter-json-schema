@@ -1,11 +1,11 @@
 Gem::Specification.new do |s|
-  s.name          = 'logstash-filter-json-schema'
+  s.name          = 'logstash-filter-jsonschema'
   s.version       = '0.1.0'
   s.licenses      = ['Apache License (2.0)']
   s.summary       = 'Write a short summary, because Rubygems requires one.'
   s.description   = 'Write a longer description or delete this line.'
-  s.authors       = ['']
-  s.email         = ''
+  s.authors       = ['Jim Howell, Christopher Hanson']
+  s.email         = 'chanson@thezebra.com'
   s.require_paths = ['lib']
 
   # Files
